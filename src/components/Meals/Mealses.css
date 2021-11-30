@@ -1,0 +1,22 @@
+.meal{
+    display: flex;
+    border-bottom: 2px solid rgb(12, 10, 10);
+    margin-top: 10px;
+    margin:10px;
+}
+
+
+.meal-details{
+    margin-left: 15px;
+}
+.btn-reguler{
+    background-color: goldenrod;
+    color: white;
+    width: 150px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    cursor: pointer;
+    font-weight: 600;
+
+}
